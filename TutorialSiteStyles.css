@@ -48,4 +48,17 @@ nav ul li {
   background-color: #bcc0c6;
 }
 
+nav li a:hover {
+  background-color: #6a6c70;
+}
+
+#prev {
+  float: left;
+  color: #0cad19;
+}
+
+#next {
+  float: right;
+  color: #0cad19;
+}
 
